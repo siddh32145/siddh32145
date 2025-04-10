@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **siddh32145/siddh32145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently, I am doing Bachelor of Data Science and Applications from the Indian Institute of Technology Madras
